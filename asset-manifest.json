@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/stitched-up-companion/static/css/main.7cbdc6fb.css",
-    "main.js": "/stitched-up-companion/static/js/main.b10698ca.js",
-    "index.html": "/stitched-up-companion/index.html",
-    "main.7cbdc6fb.css.map": "/stitched-up-companion/static/css/main.7cbdc6fb.css.map",
-    "main.b10698ca.js.map": "/stitched-up-companion/static/js/main.b10698ca.js.map"
+    "main.css": "/interactive-reading-companion/static/css/main.35d7e557.css",
+    "main.js": "/interactive-reading-companion/static/js/main.c8cb8e2b.js",
+    "index.html": "/interactive-reading-companion/index.html",
+    "main.35d7e557.css.map": "/interactive-reading-companion/static/css/main.35d7e557.css.map",
+    "main.c8cb8e2b.js.map": "/interactive-reading-companion/static/js/main.c8cb8e2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cbdc6fb.css",
-    "static/js/main.b10698ca.js"
+    "static/css/main.35d7e557.css",
+    "static/js/main.c8cb8e2b.js"
   ]
 }
